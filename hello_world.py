@@ -1,2 +1,6 @@
-  print("Version V1")
-  print("Hello World")
+  print("Version V2")
+
+  def sayHello():
+  	return "Hello World"
+
+  sayHello()
